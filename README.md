@@ -7,7 +7,7 @@ This project is a food order app with a list of meals from which we can choose a
 [Create React App](https://github.com/facebook/create-react-app).
 
 ## About the project 
-
+This food order app is part of [React course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 
 ## Setup
 
@@ -19,7 +19,9 @@ npm start
 ```
 
 ## Aproach
+It uses functional components with hooks and the context API, tu update the user card. Uses css modules to style the app.
 
+[View Live](https://joopr8.github.io/food-app/)
 
 
 

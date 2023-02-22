@@ -9,7 +9,7 @@ This project is a food order app with a list of meals from which we can choose a
 [Create React App](https://github.com/facebook/create-react-app).
 
 ## About the project 
-This food order app is part of [React course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+This food order app is part of [React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/), and it was the first practice project of the course.
 
 ## Setup
 
